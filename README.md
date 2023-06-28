@@ -10,16 +10,16 @@
 
 
 
-# Nodem
+# Limefiber
 This is a Laravel test project.
 
 <br><br>
 ### About the project
 
-<p>Nodem Tech Emerging Solutions is Developing a Network Management System.
+<p>Limefiber Emerging Solutions is Developing a Network Management System.
 The system also integrates with other systems.</p>
 
-<p>As part of the Nodem Tech development team. You are required to contribute
+<p>As part of the Limefiber development team. You are required to contribute
 towards the development of the system by adding a global search to the system
 dashboard.</p>
 
