@@ -1,0 +1,37 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm run development",
+    "development": "mix",
+    "build": "mix --production"
+  },
+  "devDependencies": {
+    "axios": "^1.1.2",
+    "laravel-mix": "^6.0.49",
+    "vue-loader": "^16.8.3"
+  },
+  "name": "nodem-globalsearch",
+  "description": "<p align=\"center\"><a href=\"https://laravel.com\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg\" width=\"400\" alt=\"Laravel Logo\"></a></p>",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamrikie/Nodem-globalSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamrikie/Nodem-globalSearch/issues"
+  },
+  "homepage": "https://github.com/iamrikie/Nodem-globalSearch#readme",
+  "dependencies": {
+    "@inertiajs/inertia": "^0.11.1",
+    "@inertiajs/inertia-vue3": "^0.6.0",
+    "@inertiajs/progress": "^0.2.7",
+    "tailwindcss": "^2.2.19",
+    "vue": "^3.2.36"
+  }
+}
